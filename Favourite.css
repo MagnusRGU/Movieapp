@@ -1,0 +1,16 @@
+ion-card{
+    width: 300px;
+}
+ion-img{
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+ion-label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(69, 69, 69);
+    font-size: 20px;
+    display: block;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
