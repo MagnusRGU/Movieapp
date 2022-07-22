@@ -1,0 +1,14 @@
+.card-label{
+    font-size: 20px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    text-transform: capitalize;
+}
+.mr10{
+    margin-right: 10px;
+}
+.ml5{
+    margin-left: 5px;
+}
+.w100{
+    width: 100%;
+}
